@@ -1,0 +1,30 @@
+body,
+html {
+  height: 100%;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Amatic SC", sans-serif;
+}
+
+.menu {
+  display: none;
+}
+
+.bgimg {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(img/424487.jpg);
+  min-height: 90%;
+}
+
+.w3-greyscale,
+.w3-grayscale {
+  filter: grayscale(40%);
+}
